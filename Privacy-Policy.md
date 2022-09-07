@@ -5,4 +5,4 @@ None. We do not collect any information.
 We don't.
 
 # What information do we share?
-None, we don't share what we don't have.
+None.
