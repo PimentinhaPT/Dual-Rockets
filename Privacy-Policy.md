@@ -1,5 +1,5 @@
 # What information we collect?
-None. We do not collect any information.
+None.
 
 # How do we use the information?
 We don't.
